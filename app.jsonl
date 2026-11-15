@@ -1,0 +1,4 @@
+{"ts": "2026-02-02T10:00:02.100+08:00", "level": "INFO", "msg": "start", "uid": 1}
+{"ts": "2026-02-02T10:00:31.000+08:00", "level": "ERROR", "msg": "late-from-future", "uid": 2}
+{"ts": "2026-02-02T10:00:05.400+08:00", "level": "INFO", "msg": "middle", "uid": 3}
+{"ts": "2026-02-02T10:00:01.900+08:00", "level": "WARN", "msg": "out of order", "uid": 4}
